@@ -13,7 +13,7 @@ Antes de dedicarme al desarrollo, construí una trayectoria de más de 12 años 
 - 🎓 Certificada Full Stack en **Soy Henry**
 - 🧠 Especializándome en **sistemas de IA agentic** (agentes, MCP, tools)
 - 👩‍🏫 Docente de Nivel Primario en escuelas primarias (9 años)
-- 👩‍🏫 Actualmente docente de Nivel Primario en modalidad CEBJA (educación de adultos), Mendoza, Argentina
+- 👩‍🏫 Docente de Nivel Primario en modalidad CEBJA (educación de adultos), Mendoza, Argentina
 - 🎯 Buscando oportunidades como **Backend Developer Jr.**
 - 🤝 Experiencia liderando equipos y coordinando personas, desarrollada en la docencia
 
@@ -60,9 +60,11 @@ SPA de chat con IA temática de autos.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=GiseMassiero&show_icons=true&theme=radical)
+![Perfil](https://img.shields.io/badge/GitHub-GiseMassiero-181717?style=for-the-badge&logo=github&logoColor=white)
+![Seguidores](https://img.shields.io/github/followers/GiseMassiero?label=Seguidores&style=for-the-badge&logo=github)
+![Repos públicos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/GiseMassiero&label=Repos&query=public_repos&style=for-the-badge&logo=github)
 
 ---
 
